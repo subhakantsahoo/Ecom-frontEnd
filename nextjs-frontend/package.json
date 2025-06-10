@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-frontend",
+  "version": "1.0.0",
+  "description": "A simple frontend application built with Next.js for managing products and orders.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
